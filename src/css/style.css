@@ -427,7 +427,8 @@ body {
     background-color: rgba(19, 19, 19, 0.7); }
   .hero__content {
     position: relative;
-    max-width: 670px; }
+    max-width: 670px;
+    padding-left: 30px; }
   .hero__text {
     font-size: 22px;
     max-width: 500px;
